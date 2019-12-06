@@ -16,7 +16,7 @@ The first thing to do to any dataset is pre-processing.  Implement the following
 We'll use [TensorDataset](http://pytorch.org/docs/master/data.html#torch.utils.data.TensorDataset) to provide a known format to our dataset; in combination with [DataLoader](http://pytorch.org/docs/master/data.html#torch.utils.data.DataLoader), it will handle batching, shuffling, and other dataset iteration functions.
 
 ## Neural Network
-Implement an RNN using PyTorch's [Module class](http://pytorch.org/docs/master/nn.html#torch.nn.Module). With an [long short-term memory (LSTM)](https://pytorch.org/docs/stable/nn.html?highlight=lstm#torch.nn.LSTM) RNN structure.
+Implement an RNN using PyTorch's [Module class](http://pytorch.org/docs/master/nn.html#torch.nn.Module). With an [long short-term memory (LSTM)](https://pytorch.org/docs/stable/nn.html?highlight=lstm#torch.nn.LSTM) RNN architecture.
 
 ## Model hyperparameters
 - I had tried sequence length 10,12 with a dropout layer in FC. Later remove dropout and changed sequence length to 16 as a model was stop trained at 3.9 error after some epoch.
