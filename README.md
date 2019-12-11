@@ -16,4 +16,5 @@ Deep learning projects.
 
 **Generative Adversarial Network - MNIST**
 - Generate new handwritten digits using [GANs](https://en.wikipedia.org/wiki/Generative_adversarial_network) trained on MNIST dataset.
-- Used fully connected layers architecture in PyTorch.
+- Used fully connected layers architecture in PyTorch.  
+- [More about generative adversarial network - MNIST project](https://github.com/DishinGoyani/Deep-Learning/tree/master/Generative%20Adversarial%20Network-MNIST#generative-adversarial-network---mnist)
