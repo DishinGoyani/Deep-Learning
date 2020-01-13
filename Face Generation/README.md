@@ -16,7 +16,7 @@ CelebA images has been cropped to remove parts of the image that don't include a
 NumPy images. Some sample data is show below. you can download this data from [here](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5be7eb6f_processed-celeba-small/processed-celeba-small.zip) 
 This pre-processed dataset is a smaller subset of the very large CelebA data.  
 
-<img src='Face Generation/assets/processed_face_data.png' width=60% />
+<img src='assets/processed_face_data.png' width=60% />
 
 ## Define the Model
 ### Discriminator
@@ -54,4 +54,4 @@ Generator(
 )
 ```
 ### Generator samples from training
-<img src='Face Generation/assets/sample-image-from-generative-adversarial-network-face-generation.png' width=60% />
+<img src='assets/sample-image-from-generative-adversarial-network-face-generation.png' width=60% />
