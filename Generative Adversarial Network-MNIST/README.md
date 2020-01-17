@@ -1,5 +1,5 @@
 ## Generative Adversarial Network - MNIST
-Simple Example of Generative Adversarial Network with MNIST dataset. In this notebook, we'll be building a generative adversarial network (GAN) trained on the MNIST dataset. From this, we'll be able to generate new handwritten digits!. This is part of [exercise](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/gan-mnist) of Udacity deep learning nanodegree.  
+Simple Example of Generative Adversarial Network with MNIST dataset. In this notebook, you'll be building a generative adversarial network (GAN) trained on the MNIST dataset. From this, you'll be able to generate new handwritten digits!. This is part of [exercise](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/gan-mnist) of Udacity deep learning nanodegree.  
 
 ## Models 
 
