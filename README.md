@@ -1,5 +1,5 @@
 # Deep-Learning
-Deep learning projects.
+Deep learning projects. Part of Udacity Deep Learning Nanodegree.
 ***
 ### Dog breed clasifier
 - Humans Detection - [Haar feature-based cascade classifiers](https://docs.opencv.org/trunk/db/d28/tutorial_cascade_classifier.html)
